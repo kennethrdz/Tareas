@@ -1,2 +1,2 @@
 # Tareas
-Tareas de la semana 1 
+Tareas de DOO
